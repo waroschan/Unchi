@@ -64,3 +64,19 @@ footer {
     background-color: #343a40;
     color: #ffffff;
 }
+
+.employee-card {
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.employee-card h3 {
+    color: #007bff;
+    margin-top: 0;
+    border-bottom: 1px solid #007bff;
+    padding-bottom: 0.5rem;
+    margin-bottom: 0.5rem;
+}
